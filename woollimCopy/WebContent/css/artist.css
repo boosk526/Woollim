@@ -1,0 +1,44 @@
+	.about-tt{
+		width: 100%;
+		height: 50px;
+		font-size: 13px;
+		text-align: center;
+	}
+	.about-tt span{
+		width: 50px;
+		height: 5px;
+		display: inline-block;
+		background-color: #000;
+		margin-top: 20px;
+	}
+	.slide-art{
+		width: 100%;
+		height: 150px;
+		margin: 30px 0 50px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.artist-li{
+		width: 100%;
+		height: 150px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.slick-active{
+		display: flex !important;
+		justify-content: center;
+	}
+	.artist-img-li{
+		width: 220px;
+		height: 150px;
+	}
+	.slide-arrow{
+		width: 50px;
+		height: 70px;
+		background-color: #95d2ff;
+		border: 2px solid #fff;
+		border-radius: 10px;
+		color: #0064a;
+	}
